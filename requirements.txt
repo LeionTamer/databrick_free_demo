@@ -1,2 +1,3 @@
 openai
 dotenv
+databricks-ai-search
